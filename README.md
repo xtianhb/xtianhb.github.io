@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Cristian Belussi - MSc. Electronics & Computer Science Engineer
 
-You can use the [editor on GitHub](https://github.com/xtianhb/xtianhb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Electronics engineer turned into a software engineer. At the beginning, started with embedded software and electronics,
+then continued with python, computer vision, data science and web projects.
+Looking forward to broadening my experience. Especially interested in data science, python, C++, back-end, embedded
+software and other software projects. I am a driven person, ambitious, and enthusiast in computer science and software.
+Below you will find my competency matrix with relevant skills.
 
-### Markdown
+## Experience
+- Exp
+- Exp 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
+- Skill
+- Skill
+- Skill
 
-```markdown
-Syntax highlighted code block
+## Languages, libraries, frameworks
+- Lang
+- Lang
+- Lang
+- Lang
 
-# Header 1
-## Header 2
-### Header 3
+### Education
+- Edu 1
+- Edu 2
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xtianhb/xtianhb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
