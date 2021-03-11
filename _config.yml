@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+author:
+  name: Cristian Belussi
+  email: cristian.belussi@gmail.com
+minima:
+  social_links:
+    linkedin: xtianhb
+
