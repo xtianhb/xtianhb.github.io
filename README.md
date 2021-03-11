@@ -2,7 +2,9 @@
 
 ## Abstract
 
-Electronics engineer turned into a software engineer. At the beginning, started with embedded software and electronics, then continued with python, computer vision, data science and web projects. Now looking forward to broadening my experience. Especially interested in data science, python, C++, back-end, embedded software and other software projects. I am a driven person, ambitious, and enthusiast in computer science and software. 
+Electronics engineer turned into a software engineer. At the beginning, started with embedded software and electronics, then continued with python, computer vision, data science and web projects. 
+
+Now, looking forward to broadening my experience. Especially interested in data science, python, C++, back-end, embedded software and other software projects. I am a driven person, ambitious, and enthusiast in computer science and software. 
 
 ## Experience
 - Design and development of embedded software systems. C and some C++.
@@ -13,6 +15,7 @@ Electronics engineer turned into a software engineer. At the beginning, started 
 
 ### Projects
 - Computer vision object tracking. Python, C#, VB.Net, OpenCV.
+- Automatic license plate recognition server. Python, OpenCV, TensorFlow, GPU, protobuf.
 - Speed enforcement platform. Python, OpenCV, Raspbian, Flask.
 - IoT Web App interface running in Raspberry Pi. Python, Flask, CSS, JS.
 - NLP processing algorithm. Predict categories based on titles. TensorFlow, Python.
@@ -24,16 +27,19 @@ Electronics engineer turned into a software engineer. At the beginning, started 
 - Internship, firmware and hardware development, embedded systems.
 
 ### Skills
-- Electronics, embedded software systems, 12 years, Sr.
-- C/(C++). 10(1) years. Sr. (Jr.+)
-- Python. 5 years. SSr.
-- OpenCV, 4 years, SSr.
-- Git, 4 years, Jr+.
-- TensorFlow, Pytorch, 2 years, Jr.
-- Data science, NLP, CV, deep-learning, 1 year. Jr.
-- C#, VB, .Net. 2 years. Jr.
-- Django, Flask, MVC, SQL. 1 year. Jr.
-- Agile, Scrum.
+| Skills | Experience ( years ) | Level |
+|-------|--------|---------|
+| Electronics, embedded software systems | 12  | Sr. |
+| C / (C++) | 10 (2)  | Sr. (Jr.+) |
+| Python | 5 |  SSr. |
+| OpenCV | 4  | SSr.|
+| Git | 4  | Jr+. |
+| TensorFlow, Pytorch | 2  | Jr. |
+| GPU, CUDA | 1  | Jr. |
+| Data science, NLP, CV, deep-learning | 1  | Jr. |
+| C#, VB, .Net.| 2  | Jr. |
+| Django, Flask, MVC, SQ | 1 | Jr. |
+| Agile, Scrum | | |
 
 ### Education
 - Master of Engineering Sciences, Instituto Balseiro. Bariloche, Argentina. Granted with a full scholarship, for scientific and engineering education in posgraduate courses and research. Thesis: Design and implementation of an electronic system for a scanning tunneling microscope.
@@ -43,4 +49,3 @@ Electronics engineer turned into a software engineer. At the beginning, started 
 - Spanish: Native.
 - English: Fluent. Verbal and written.
 - French: Intermediate. DELF B1.
-
