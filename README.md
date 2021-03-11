@@ -1,5 +1,3 @@
-# Cristian Belussi - MSc. Electronics & Computer Science Engineer
-
 ## Abstract
 
 Electronics engineer turned into a software engineer. At the beginning, started with embedded software and electronics, then continued with python, computer vision, data science and web projects. 
@@ -14,6 +12,7 @@ Now, looking forward to broadening my experience. Especially interested in data 
 - Linux platform configuration for IoT, bash automated, networking, deployment, testing, Web. Linux, BASH, Python.
 
 ### Projects
+
 - Computer vision object tracking. Python, C#, VB.Net, OpenCV.
 - Automatic license plate recognition server. Python, OpenCV, TensorFlow, GPU, protobuf.
 - Speed enforcement platform. Python, OpenCV, Raspbian, Flask.
@@ -27,6 +26,7 @@ Now, looking forward to broadening my experience. Especially interested in data 
 - Internship, firmware and hardware development, embedded systems.
 
 ### Skills
+
 | Skills | Experience ( years ) | Level |
 |-------|--------|---------|
 | Electronics, embedded software systems | 12  | Sr. |
@@ -42,6 +42,7 @@ Now, looking forward to broadening my experience. Especially interested in data 
 | Agile, Scrum | | |
 
 ### Education
+
 - Master of Engineering Sciences, Instituto Balseiro. Bariloche, Argentina. Granted with a full scholarship, for scientific and engineering education in posgraduate courses and research. Thesis: Design and implementation of an electronic system for a scanning tunneling microscope.
 - Electronics Engineer, Universidad Tecnológica Nacional . Buenos Aires, Argentina. Six years study program, focused in electronics and computer science.
 
