@@ -1,8 +1,10 @@
-theme: jekyll-theme-minimal
+
+logo: /img/c.png
 author:
   name: Cristian Belussi
   email: cristian.belussi@gmail.com
 minima:
   social_links:
     linkedin: xtianhb
-
+description: MSc. Eng. Cristian Belussi
+theme: jekyll-theme-minimal
