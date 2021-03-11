@@ -18,20 +18,20 @@ Electronics engineer turned into a software engineer. At the beginning, started 
 - NLP processing algorithm. Predict categories based on titles. TensorFlow, Python.
 - COLAB demo for object detection, conference at university. TensorFlow, COLAB, Python
 - Embedded software development for high-end piano MIDI controller. Architecture, signal processingand user interface. C.
-- Development of embedded software. Full design of Doppler Radar and inductive loops embedded systems.
+- Development of embedded software for Doppler Radar and inductive loops embedded systems. Signal processing, interface, test, validation.
 - Software acquisition system for scanning tunneling micrsocope. LabView.
 - Design and development of low-noise, high-voltage, and high-bandwidth amplifiers.
 - Internship, firmware and hardware development, embedded systems.
 
 ### Skills
-- Electronics, 12 years, Sr.
+- Electronics, embedded software systems, 12 years, Sr.
 - C/(C++). 10(1) years. Sr. (Jr.+)
 - Python. 5 years. SSr.
 - OpenCV, 4 years, SSr.
 - Git, 4 years, Jr+.
 - TensorFlow, Pytorch, 2 years, Jr.
 - Data science, NLP, CV, deep-learning, 1 year. Jr.
-- C#, VV, .Net. 2 years. Jr.
+- C#, VB, .Net. 2 years. Jr.
 - Django, Flask, MVC, SQL. 1 year. Jr.
 - Agile, Scrum.
 
