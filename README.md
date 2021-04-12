@@ -71,6 +71,9 @@ deep-learning, FPGA, hardware, firmware, and data-science.
 
 ### Education
 
+- PhD Engineering Sciences (Not concluded) - [Instituto Balseiro](http://ib.edu.ar). Bariloche, Argentina. (2014-2016) 
+Granted with a full scholarship, for scientific and engineering research.
+
 - Master of Engineering Sciences - [Instituto Balseiro](http://ib.edu.ar). Bariloche, Argentina. 
 Granted with a full scholarship, for scientific and engineering education in posgraduate courses and research. 
 
