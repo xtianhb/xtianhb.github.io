@@ -9,7 +9,7 @@ Been working in a range of industries and projects. Some areas of experience:
 embedded systems, physics, laboratory research, analog/digital circuits, fpga,
 satellite modules, computer-vision, fpga, machine-learning, hardware.
 
-Intested in: embedded systems, uC/uP, RISC-V, machine-learning, 
+I'm interested in embedded systems, uC/uP, RISC-V, machine-learning, 
 deep-learning, FPGA, hardware, firmware, and data-science.
 
 * * *
