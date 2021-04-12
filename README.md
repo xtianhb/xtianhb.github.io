@@ -1,9 +1,9 @@
 ## _Cristian Belussi_ 
 
 
-My github page: [my github](https://github.com/xtianhb) 
+[My github](https://github.com/xtianhb) 
 
-| Electronics Engineer | Embedded-Systems | Generalist |
+| Electronics Engineer | Embedded-Systems | Generalist Engineer |
 
 Been working in a range of industries and projects. Some areas of experience: 
 embedded systems, physics, laboratory research, analog/digital circuits, fpga,
@@ -50,20 +50,21 @@ deep-learning, FPGA, hardware, firmware, and data-science.
 
 | Skills | Exp. ( years ) | Level |
 |-------|--------|---------|
-| Electronics, physics | 12  | Sr. |
+| Electronics | 12  | Sr. |
 | Embedded systems | 12  | Sr. |
 | C / (C++) | 10  | Sr.  |
 | PCB, Hw, Testing   | 10  | Sr. |
+| Physics | 5  | SSr. |
 | Python | 5 |  SSr. |
 | OpenCV | 4  | SSr.|
-| Objects / Patterns | 4 |  Jr. |
-| Git | 4  | Jr. |
-| FPGA, VHDL | 2  | Jr. |
+| Objects / Patterns | 4 |  SSr. |
+| Git | 4  | SSr. |
+| FPGA, VHDL | 2  | JrA. |
+| C#, VB, .Net| 2  | JrA. |
 | Machine-Learning | 2  | Jr. |
 | TensorFlow, Pytorch | 2  | Jr. |
-| GPU, CUDA | 1  | Jr. |
-| C#, VB, .Net| 2  | Jr. |
-| CI/CD, Docker | 1  | Jr. |
+| GPU, CUDA | 2  | Jr. |
+| CI / CD, Docker | 1  | Jr. |
 | Django, Flask, SQL | 1 | Jr. |
 
 * * *
@@ -91,6 +92,8 @@ Granted with a full scholarship, for scientific and engineering education in pos
 
 
 ### Certifications
+
+- Introduction to RISC-V - EDX 2021.
 
 - International Engineering Educator - Centro de e-Learning UTN FRBA. 2021
 
