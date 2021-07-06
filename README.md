@@ -3,14 +3,15 @@
 
 [My github](https://github.com/xtianhb) 
 
-| Electronics Engineer | Embedded-Systems | Generalist Engineer |
+| MSc. Electronics Engineer | IoT Engineer |
 
-Been working in a range of industries and projects. Some areas of experience: 
-embedded systems, physics, laboratory research, analog/digital circuits, fpga,
-satellite modules, computer-vision, fpga, machine-learning, hardware.
+Engineer with more than 10 years of experience in the design and development of electronics, hardware, and software. Now specialized in areas of IoT, Machine Learning, and Data Science.
 
-I'm interested in embedded systems, uC/uP, RISC-V, machine-learning, 
-deep-learning, FPGA, hardware, firmware, and data-science.
+Experience in embedded systems architecture, hardware design, software development, and manufacturing. In the laboratory, PCB work, data acquisition, visualization, experiments, measurements, and validations.
+
+For the last 5 years working on Electronics, IoT, Machine Learning, Data Science, and Software projects.
+
+Experience in other areas: evaluator of electronic designs for critical systems; software developer for embedded IoT systems; researcher in a master's degree in Engineering and Experimental Physics; consultant for remote projects.
 
 * * *
 
@@ -67,6 +68,9 @@ deep-learning, FPGA, hardware, firmware, and data-science.
 | CI / CD, Docker | 1  | Jr. |
 | Django, Flask, SQL | 1 | Jr. |
 
+Software skills: Linux, Python, C, C ++, Docker, Kubernetes, AWS, TensorFlow, PyTorch, Computer-Vision (OpenCV), Neural-Networks (CNN, SSD, LSTM, Faster R-CNN), NLP (BERT, SpaCy, NLTK), Data (NumPy, Pandas, SciPy, MatplotLib, SciKit-Learn, SQL), pipelines (deepstream), Backend (Flask, Django)
+
+Hardware skills: Electronics, analog, digital, power, PCB, schematics, filters, microcontrollers, ARM embedded systems, Altium, KiCAD, simulation, manufacturing, manufacturing, debugging, motor drivers, FPGA, Xilinx Zybo.
 * * *
 
 ### Education
