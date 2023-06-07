@@ -3,41 +3,43 @@
 
 [My github](https://github.com/xtianhb) 
 
-| MSc. Electronics Engineer | IoT Engineer |
+| MSc. Electronics Engineer | Machine Learning Engineer | IoT Engineer |
 
-Engineer with more than 10 years of experience in the design and development of electronics, hardware, and software. Now specialized in areas of IoT, Machine Learning, and Data Science.
+Senior engineer with Master’s degree and +10 years of experience in broad areas: I’ve been working with companies in projects related to AI, machine learning, embedded systems, software, IoT, and electronics.
 
-Experience in embedded systems architecture, hardware design, software development, and manufacturing. In the laboratory, PCB work, data acquisition, visualization, experiments, measurements, and validations.
-
-For the last 5 years working on Electronics, IoT, Machine Learning, Data Science, and Software projects.
-
-Experience in other areas: evaluator of electronic designs for critical systems; software developer for embedded IoT systems; researcher in a master's degree in Engineering and Experimental Physics; consultant for remote projects.
+Currently, developing IoT solutions with AI, ML, Electronics and Software. Helping to improve safety, customer experience, and operations for clients.
 
 * * *
 
-## Technologies and roles
+## Experience / Technologies / Impact
 
-- Design, architecture, and development of embedded software systems. C/C++/Python.
-- Software development, algorithms improvement, product innovations, market launch. C, Python, C++, C#.
-- Developer, tech-lead, deployment of computer-vision solutions. Python, OpenCV, TensorFlow.
-- Developer, front-end and back-end solutions for IoT platforms. CSS, HTML, JS, Python, Flask, DJango, SQL.
-- Developer, Linux platform configuration for IoT, bash automated, networking, deployment, testing, Web. Linux, BASH, Python.
-- Schematics design, hierarchy design, documentation, analog/digital. DFM.
-- PCB multilayer, layout, stack, 6 layers, high-speed, IPC-2221. Manufacturing, testing, debugging.
+- Platform engineer for Kubernetes pipeline running machine-learning computer-vision applications, connected to cloud and databases.
+- Research enginer to conduct a PoC related to Robotics / AI / CV. High impact, after creating the blueprints for the MVP.
+- Lead developer, study and research of a IoT platform with computer-vision and machine-learning inference for real-time safety apps.
+- Lead developer, design of a new Linux IoT platform product, real-time computer-vision, with networking. High impact with 100s of deployments.
+- Lead developer, AI / Computer-Vision for new products. High impact, reducing costs to 1/3. Python/OpenCV/TensorFlow.
+- Design, architecture, and development of embedded software systems for new or existing products. C/C++/Python.
+- Developer, front-end and back-end solutions for IoT platforms. CSS/HTML/JS/Python/Flask/SQL.
+- Engineer for schematics design, analog/digital electronics. Altium Designer.
+- Advanced PCB multilayer, layout, stacking, high-speed, IPC-2221. Manufacturing, testing, debugging.
 - Design and develop FPGA SoC system. Develop VHDL and embedded Linux firmware. VHDL, Xilinx, Spartan3, ZYNQ7000.
+- Electronics: Hardware design, system architecture, embedded, firmware, manufacturing. Laboratory, instruments, and measurements.
 
 * * *
 
-### Projects
+### Some projects examples
 
-- Video and signal processing platform. FPGA ZYNQ system design. VHDL, embedded Linux, Vitis, Vivado.
+- Kubernetes pipeline for computer-vision in real-time.
+- Robotics + Computer-Vision + Cloud.
+- Jetson Nano and GPU inference with machine-learning models.
 - Computer vision object tracking. Python, C#, VB.Net, OpenCV.
 - Automatic license plate recognition server with deep-learning. Python, OpenCV, TensorFlow, GPU, protobuf.
 - Speed enforcement platform - IoT system with sensor and video processing. Python, OpenCV, Raspbian, Flask.
+- Video and signal processing platform. FPGA ZYNQ system design. VHDL, embedded Linux, Vitis, Vivado.
 - Radar Doppler platform. Signal processing, embedded system, schematic, PCB, firmware, FFT, GUI.
 - IoT Web App interface running in Raspberry Pi. Python, Flask, CSS, JS.
-- NLP processing algorithm. Predict categories based on titles. TensorFlow, Python.
-- COLAB demo for object detection, conference at university. TensorFlow, COLAB, Python
+- Data Science - NLP processing algorithm. Predict categories based on titles. TensorFlow, Python.
+- MVP for object detection. TensorFlow, COLAB, Python
 - Embedded software development for high-end piano MIDI controller. Architecture, signal processingand user interface. C.
 - Development of embedded software for Doppler Radar and inductive loops embedded systems. Signal processing, interface, test, validation.
 - Software acquisition system for scanning tunneling micrsocope. LabView.
@@ -48,25 +50,6 @@ Experience in other areas: evaluator of electronic designs for critical systems;
 * * *
 
 ### Skills
-
-| Skills | Exp. ( years ) | Level |
-|-------|--------|---------|
-| Electronics | 12  | Sr. |
-| Embedded systems | 12  | Sr. |
-| C / (C++) | 10  | Sr.  |
-| PCB, Hw, Testing   | 10  | Sr. |
-| Physics | 5  | SSr. |
-| Python | 5 |  SSr. |
-| OpenCV | 4  | SSr.|
-| Objects / Patterns | 4 |  SSr. |
-| Git | 4  | SSr. |
-| FPGA, VHDL | 2  | JrA. |
-| C#, VB, .Net| 2  | JrA. |
-| Machine-Learning | 2  | Jr. |
-| TensorFlow, Pytorch | 2  | Jr. |
-| GPU, CUDA | 2  | Jr. |
-| CI / CD, Docker | 1  | Jr. |
-| Django, Flask, SQL | 1 | Jr. |
 
 Software skills: Linux, Python, C, C ++, Docker, Kubernetes, AWS, TensorFlow, PyTorch, Computer-Vision (OpenCV), Neural-Networks (CNN, SSD, LSTM, Faster R-CNN), NLP (BERT, SpaCy, NLTK), Data (NumPy, Pandas, SciPy, MatplotLib, SciKit-Learn, SQL), pipelines (deepstream), Backend (Flask, Django)
 
@@ -100,9 +83,15 @@ Granted with a full scholarship, for scientific and engineering education in pos
 
 ### Certifications
 
+- C++ Associate Programmer from C++ Institute, and Modern C++ 11/14/17 from Udemy.
+
+- Deep-Learning Specialization from Coursera.
+
+- Master SQL for Data Science and Py-Spark from Udemy.
+
 - Introduction to RISC-V - EDX 2021.
 
-- International Engineering Educator - Centro de e-Learning UTN FRBA. 2021
+- International Engineering Educator - E-Learning Center UTN FRBA. 2021
 
 - Introduction to Computer Science and Programming Using Python - EDX. 2015
 
@@ -110,5 +99,5 @@ Granted with a full scholarship, for scientific and engineering education in pos
 
 ### Languages
 - Spanish: Native.
-- **English: Fluent. Verbal and written.**
+- English: Fluent. Verbal and written.
 - French: Intermediate. DELF B1.
